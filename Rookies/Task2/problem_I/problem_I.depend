@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1753200436 source:c:\users\ovision\onedrive\desktop\task2\problem_i\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
